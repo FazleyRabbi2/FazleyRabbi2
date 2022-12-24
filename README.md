@@ -1,15 +1,16 @@
 ### Hi, I'm Fazley Rabbi 👋,
-#### Web Developer
-I'm a Frontend Web developer based in Dhaka, Bangladesh. I’m a self-learner and a non-CSE student. As a self-learner, it’s pretty hard to focus on particular things. So, I never quit.  I’m passionate about making error free websites. I love solving real-world problems. I am strategic, goal-oriented and always work with an end goal in mind. I enjoy working with ReactJs, JavaScript as well as PHP.  
-Skills: REACT / JS / HTML / CSS
+<p align="left">
+<a href="https://twitter.com/fazleyrabbi11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fazleyrabbi11" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fazley-rabbi11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fazley-rabbi11" height="30" width="40" /></a>
+<a href="https://fb.com/f.rabbi.90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="f.rabbi.90" height="30" width="40" /></a>
+</p>
+I'm a Frontend Web developer based in Dhaka, Bangladesh. I’m a self-learner and a non-CSE student. As a self-learner, it’s pretty hard to focus on particular things. So, I never quit.  I’m passionate about making error free websites. I love solving real-world problems. I am strategic, goal-oriented and always work with an end goal in mind.
+<br>
+<br>
+🌱 I’m currently learning JavaScript
 
-- 🌱 I’m currently learning PHP 
-- 💬 Ask me about Web Development
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/FazleyRabbi2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/fazley-rabbi11/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/f.rabbi.90)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/fazleyrabbi11)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](http://fazley-rabbi.xyz/)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=FazleyRabbi2)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FazleyRabbi2)](https://github.com/anuraghazra/github-readme-stats)
-
-![Profile views](https://gpvc.arturio.dev/FazleyRabbi2)  
+💬 Ask me about Web Development
+ <br>
+#### Skills: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fazleyrabbi2&show_icons=true&locale=en&layout=compact" alt="fazleyrabbi2" /></p>
